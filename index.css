@@ -7,8 +7,15 @@
 }
 
 nav{
-    background-color: dimgrey;
+    background-color: dimgrey;/*grey background colour*/
+    display: flex;
+    justify-content: space-between; /* Space between logo and list */
+    align-items: center; /* Center items vertically (MIDDLE OF THE COLOR) */
+    padding: 10px 20px;
 }
+
+
+
 
 
 

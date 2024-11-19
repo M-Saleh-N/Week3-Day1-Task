@@ -41,3 +41,10 @@ nav ul li a{
 nav ul li a:hover{
     color: rgb(255, 4, 4);
 }
+button{
+    border: none;
+    background-color: red;
+    padding: 12px 30px;
+    border-radius: 30px;
+    color: white;
+}

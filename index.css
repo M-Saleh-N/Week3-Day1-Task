@@ -8,9 +8,9 @@ nav{
     align-items: center;
     justify-content: space-between;
     padding-top: 40px;
-    padding-left: 10%;       /*for the logo to move right*/
-    padding-right: 10%;      /*for the list to move left*/
-    background-color: rgb(0, 0, 0);
+    padding-left: 5%;       /*for the logo to move right*/
+    padding-right: 30%;      /*for the list to move left*/
+    
        
 }
 .logo{
@@ -23,7 +23,8 @@ span{
 nav ul li{
     list-style-type: none;
     display: inline-block;  /*changed from block to horizontal line*/
-    padding: 10px 20px;
+    padding: 20px;
+    margin: 0 20px; /* Add horizontal margin for spacing between items */
 }
 
 .container{

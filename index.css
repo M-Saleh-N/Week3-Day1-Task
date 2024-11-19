@@ -31,3 +31,9 @@ nav ul li{
     background-image: url('images/land-rover.jpg');
     background-size: cover; /* This will make the background image cover the entire body */
 }
+
+nav ul li a{
+    color: white;
+    text-decoration: none;  /*removes the lines*/
+    font-weight: bold;
+}

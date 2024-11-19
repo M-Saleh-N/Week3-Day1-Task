@@ -25,3 +25,9 @@ nav ul li{
     display: inline-block;  /*changed from block to horizontal line*/
     padding: 10px 20px;
 }
+
+.container{
+    height: 100vh; /*keeps the photo in the middle*/
+    background-image: url('images/land-rover.jpg');
+    background-size: cover; /* This will make the background image cover the entire body */
+}

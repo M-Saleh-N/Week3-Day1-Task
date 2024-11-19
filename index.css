@@ -3,3 +3,11 @@
     padding: 0;
     box-sizing: border-box;
 }
+nav{
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    padding-top: 40px;
+    padding-left: 10%;       /*for the logo to move right*/
+    padding-right: 10%;      /*for the list to move left*/
+}

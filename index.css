@@ -57,6 +57,7 @@ button:hover{
     flex-wrap: wrap;
     color: white;
     gap: 10px;
+    background-color: rgb(49, 45, 45);
 }
 .item{
     flex: 1 1 200px;

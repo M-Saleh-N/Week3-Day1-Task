@@ -37,3 +37,6 @@ nav ul li a{
     text-decoration: none;  /*removes the lines*/
     font-weight: bold;
 }
+nav ul li a:hover{
+    color: rgb(255, 4, 4);
+}

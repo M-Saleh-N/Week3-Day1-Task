@@ -2,7 +2,6 @@
     margin: 0;
     padding: 0;
     box-sizing: border-box;
-    list-style: none;
 }
 nav{
     display: flex;
@@ -20,4 +19,9 @@ nav{
 }
 span{
     color: rgb(255, 4, 4);
+}
+nav ul li{
+    list-style-type: none;
+    display: inline-block;  /*changed from block to horizontal line*/
+    padding: 10px 20px;
 }

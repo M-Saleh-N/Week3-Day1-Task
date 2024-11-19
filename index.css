@@ -43,7 +43,7 @@ nav ul li a:hover{
 }
 button{
     border: none;
-    background-color: red;
+    background-color: rgb(194, 22, 22);
     padding: 12px 30px;
     border-radius: 30px;
     color: white;
@@ -65,4 +65,5 @@ button:hover{
     text-align: center;
     border: 1px solid black;
     font-weight: bold;
+
 }

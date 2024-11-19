@@ -56,4 +56,10 @@ button:hover{
     display: flex;
     flex-wrap: wrap;
     color: white;
+    gap: 10px;
+}
+.item{
+    flex: 1 1 200px;
+    padding: 20px; /*makes the box bigger*/
+    background-color: rgb(167, 31, 31);
 }
